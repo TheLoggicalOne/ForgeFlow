@@ -1,4 +1,4 @@
-# Product Description
+# Product Definition
 This file captures the **stable state** of the product after analysis.
 ## Product Vision
 State the purpose of the product and the problem it solves.
