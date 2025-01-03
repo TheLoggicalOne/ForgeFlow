@@ -1,5 +1,14 @@
 # ForgeFlow
-The general workflow for creation, specifically software products
+- What is this? A general workflow for creation, specifically creation of software products.
+- How to use it? clone the repository and start useing it.
+- Why should you use this? 
+## 
+If you already know what exactly you want to build, you technically are one step ahead of here:  
+You have the product definition, and from that you could start creating/developing! Happy  
+developing! But I beleive its not enough! Having the what, without having understanding of the why,  
+only works if everything goes according to plan, specially, the plan should go acording to the plan!  
+We all know that's not happening, at least not where we live, in the the real world. 
+
 ## Key Directories and Files:
 - **src/**: Contains the source code of your Python package or program.
 - **tests/**: Includes unit tests and other test-related files.
