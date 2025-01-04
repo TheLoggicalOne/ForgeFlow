@@ -47,9 +47,8 @@ Explore the **needs and requirements** of the product from the user's perspectiv
 - Explore use cases comprehensively.
 - Identify and evaluate potential features.
 
-## **Template:**
-```markdown
-# Product Analysis
+
+# Template product_analysis.md:
 
 ## Purpose
 - [Describe the purpose of the product.]
@@ -68,4 +67,4 @@ Explore the **needs and requirements** of the product from the user's perspectiv
 ## Initial Feature Ideas
 - [Feature 1: Description]
 - [Feature 2: Description]
-```
+
