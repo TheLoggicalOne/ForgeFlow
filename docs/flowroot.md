@@ -1,4 +1,4 @@
-# flowroot
+# flowroot for ForgeFlow
 ## Start by writing your thought and ideas , in unstructured way, create a bullet point of everything that comes up to your mind
 ### I need to decide about structure of this fucking self-reffering repo
 
