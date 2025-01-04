@@ -1,13 +1,13 @@
-### 3. Design Decisions (`docs/design_decision_analysis.md`)
+### Design Decisions (`docs/design_decision_analysis.md`)
 This file documents the **decision-making process** for design choices.
 
 - **Options Considered**: Pros/cons of each choice.
 - **Rationale**: Why a specific choice was made.
 - **Revisions**: Iterations and changes.
 
-**Template:**
-```markdown
-# Design Decisions
+
+
+# Template for design_decision_analysis.md
 
 ## Feature/Component 1
 - **Options Considered**:
@@ -17,5 +17,5 @@ This file documents the **decision-making process** for design choices.
 - **Rationale**: [Why this choice was made.]
 
 ## Feature/Component 2
-...
+
 
