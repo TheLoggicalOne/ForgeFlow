@@ -1,5 +1,34 @@
 
 # Product Analysis for ForgeFlow
+
+
+### What I want/need
+- a workflow for projects and product creation
+- guide to help me complete this workflow
+- guide to help to cover important aspects of each step of workflow
+- Questions to spark my thinking
+
+### Maybe its better if we start with problem, instead of the solution
+- even if you are starting with a solution, take a step back and ask yourself what the problem is 
+or could be
+- maybe instead of one prolem, you should first focus on problem space
+### Understanding the problem and its space: Its all about the problem
+- spark of the problem: inability to decide about product features and its design and being confused  
+about where and how to document these, which I know by exprience they are critical
+- related problems: 
+    - can not manage large project/programs:
+        - making a change and managing its consequences becomes impossibly difficult
+            - even if I could luckily find what to change and where, I could not confidently know  
+            what are effects of this change
+    - can not manage complex dependencies
+    - do not have a big picture of the structure and dependencies of the product
+- consequences of problem:
+    - I can not consistently work on my project
+
+### is it useful to think about cause and consequences of the problem? Should we?
+
+
+# Product Analysis Guide
 ### Motivation for product analysis
 If you have been told what to build or you already know what exactly you want to build, you   
 technically are one step ahead of here:  
