@@ -21,6 +21,52 @@ only works if everything goes according to plan, specially, the plan should go a
 We all know that's not happening, at least not where we live, in the the real world. 
 
 
+## General Workflow for Python Projects
+1. Project Definition
+Objective: Define the purpose and scope of the project.
+Example for "Data Extraction": Extract and store price-related data from online sources in a structured local database.
+Key Questions:
+What is the problem being solved?
+What are the expected outcomes or deliverables?
+2. Requirements Gathering
+Functional Requirements:
+Define specific tasks the project will perform.
+Example: Support Telegram channel scraping, handle multiple data formats, etc.
+Non-Functional Requirements:
+Scalability, performance, maintainability, and usability considerations.
+Data Requirements:
+Data sources, expected input, and output format.
+Example: Input: Telegram messages; Output: Database records.
+3. Use Case and Feature Analysis
+Identify primary use cases and key features.
+Use Case 1: Extract messages from Telegram channels.
+Use Case 2: Save data into a structured database with metadata.
+Prioritize and document all features.
+4. High-Level Architecture Design
+Core Components:
+Define the main modules and their responsibilities.
+Example for "Data Extraction":
+Data Collector: Handles scraping or API integration.
+Data Processor: Cleans and transforms data.
+Data Storage: Handles database operations.
+Workflow Diagram:
+Create a flowchart or diagram showing interactions between components.
+Technology Stack:
+List programming languages, libraries, and tools.
+Example: Python, SQLite/PostgreSQL, SQLAlchemy, Telethon.
+5. Detailed Design
+Modules and Submodules:
+Break down components into smaller, manageable parts.
+Example: data_collector.telegram, data_processor.cleaning, etc.
+Data Models:
+Define database schema and any in-memory structures.
+Example: Message table with fields: ID, text, timestamp, sender, etc.
+API Interfaces:
+Define how components interact via APIs or functions.
+
+
+
+
 # flowroot template (`docs/flowroot.md`)
 ## Start by writing your thought and ideas , in unstructured way, create a bullet point of everything that comes up to your mind
 ## Purpose of flowroot
