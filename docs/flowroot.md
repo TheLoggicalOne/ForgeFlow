@@ -64,7 +64,14 @@ Example: Message table with fields: ID, text, timestamp, sender, etc.
 API Interfaces:
 Define how components interact via APIs or functions.
 
-
+## Workflow Summary
+Step	Document	Purpose
+1. Analyze	product_analysis.md	Explore and analyze the product's needs.
+2. Define	product_definition.md	Finalize the product’s vision and features.
+3. Design Decisions	design_decision.md	Record technical choices and rationale.
+4. Architecture	architecture.md	Describe the system’s structure and design.
+5. Database Design	database_design.md	Focus on database schema and interactions.
+6. User Documentation	README.md / user_guide.md	Document usage from a user perspective.
 
 
 # flowroot template (`docs/flowroot.md`)
