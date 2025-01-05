@@ -47,6 +47,16 @@ Explore the **needs and requirements** of the product from the user's perspectiv
 - Explore use cases comprehensively.
 - Identify and evaluate potential features.
 
+## 
+Purpose: Explore and document the problem, use cases, features, and the rationale behind decisions.
+Steps:
+Write the Problem Statement: What problem are we solving?
+Define the Target Audience: Who are the users? What are their needs?
+Brainstorm Use Cases: List real-world scenarios.
+List and analyze potential Features: Include pros, cons, and feasibility.
+Record the Decision-Making Process: Justify why features are selected or rejected.
+
+
 
 # Template for Product Analysis (`docs/product_analysis.md`)
 
