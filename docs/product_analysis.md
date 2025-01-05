@@ -1,5 +1,5 @@
 
-## Product Analysis
+# Product Analysis for ForgeFlow
 If you already know what exactly you want to build, you technically are one step ahead of here:  
 You have the product definition, and from that you could start creating/developing! Happy  
 developing! But I beleive its not enough! Having the what, without having understanding of the why,  
@@ -48,7 +48,7 @@ Explore the **needs and requirements** of the product from the user's perspectiv
 - Identify and evaluate potential features.
 
 
-# Template product_analysis.md:
+# Template for Product Analysis (`docs/product_analysis.md`)
 
 ## Purpose
 - [Describe the purpose of the product.]

@@ -21,7 +21,7 @@ only works if everything goes according to plan, specially, the plan should go a
 We all know that's not happening, at least not where we live, in the the real world. 
 
 
-# flowroot template
+# flowroot template (`docs/flowroot.md`)
 ## Start by writing your thought and ideas , in unstructured way, create a bullet point of everything that comes up to your mind
 ## Purpose of flowroot
 This document captures the initial unstructured thoughts, ideas, and observations about the project.  
