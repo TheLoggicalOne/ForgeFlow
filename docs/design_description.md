@@ -1,4 +1,4 @@
-### Design Definition (`docs/design_definition.md`)
+### Design Description (`docs/design_description.md`)
 This file describes the **current final state** of the system design.
 
 - **System Overview**: Diagram or description.

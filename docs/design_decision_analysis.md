@@ -22,6 +22,7 @@ This file documents the **decision-making process** for design choices.
 # Template for Design Decision Analysis (`docs/design_decision_analysis.md`)
 
 ## Feature/Component 1
+- **current choice/suggestion(not final)**
 - **Options Considered**:
   - Option A: Pros and cons
   - Option B: Pros and cons

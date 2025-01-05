@@ -1,5 +1,34 @@
 # flowroot for ForgeFlow
 ## Start by writing your thought and ideas , in unstructured way, create a bullet point of everything that comes up to your mind
+### Do not design before defining the product
+In this project, ForgeFlow, I have an idea of creation a repository to be a template/guide to help managing  
+creation/developing workflow. I create a directory structure and create a file for every step that  
+was in my mind: How great is this? Everything should fit right in, specifically with the briliant   
+design that I had in my mind: Start y product analysis, write in [docs/product_analysis.md](docs/product_analysis.md) for  
+exploring and analyzing different features which enables you to make informed and wise decisions  
+about what the product should be, then I will just write my final clean, justified, purpuseful  
+product definition in
+[docs/product_definition.md](docs/product_definition.md)
+I will execute the same strategy for design: analyze  
+different desing decisions in [docs/design_decision_analysis.md](docs/design_decision_analysis.md) and then document final design decisions  
+in [docs/design_description.md](docs/design_description.md)  
+I wasn't expecting things to get too confusing too fast! I was hit with the sneaky self-referal  
+paradox type confusation! 
+- In [design_decision_analysis.md](docs/design_decision_analysis.md) is for general product analysis 
+or for product analysis specific to  
+ForgeFlow or for both? 
+  - maybe both? Ok, should the section for general product workflow be a template or be a guide? or  
+  maybe just some question to provocke your thinking?!
+  - should I have one separate file as a guide for general product analysis?
+  - where should the above questions go in my suggested workflow? in the `product_analysis.md` or
+  `design_decision_analysis.md`? 
+- maybe I should have started with an article?
+
+
+
+
+
+
 ### I need to decide about structure of this fucking self-reffering repo
 
 - is having a repo for this even a good Idea?
@@ -19,6 +48,7 @@ You have the product definition, and from that you could start creating/developi
 developing! But I beleive its not enough! Having the what, without having understanding of the why,  
 only works if everything goes according to plan, specially, the plan should go acording to the plan!  
 We all know that's not happening, at least not where we live, in the the real world. 
+For every important decision, we need to document not only the decision, but also why we made that specific decision. 
 
 
 ## General Workflow for Python Projects
@@ -65,13 +95,18 @@ API Interfaces:
 Define how components interact via APIs or functions.
 
 ## Workflow Summary
-Step	Document	Purpose
-1. Analyze	product_analysis.md	Explore and analyze the product's needs.
-2. Define	product_definition.md	Finalize the product’s vision and features.
-3. Design Decisions	design_decision.md	Record technical choices and rationale.
-4. Architecture	architecture.md	Describe the system’s structure and design.
-5. Database Design	database_design.md	Focus on database schema and interactions.
-6. User Documentation	README.md / user_guide.md	Document usage from a user perspective.
+
+
+| **Step**              | **Document**               | **Purpose**                                           |
+|-----------------------|----------------------------|-------------------------------------------------------|
+| **1. Analyze**        | `product_analysis.md`      | Explore and analyze the product's needs.              |
+| **2. Define**         | `product_definition.md`    | Finalize the product’s vision and features.           |
+| **3. Design Decisions**| `design_decision.md`      | Record technical choices and rationale.               |
+| **4. Architecture**   | `architecture.md`          | Describe the system’s structure and design.           |
+| **5. Database Design**| `database_design.md`       | Focus on database schema and interactions.            |
+| **6. User Documentation** | `README.md` / `user_guide.md` | Document usage from a user perspective.        |
+
+
 
 
 # flowroot template (`docs/flowroot.md`)

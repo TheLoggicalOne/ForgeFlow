@@ -46,4 +46,16 @@ Step	Document	Purpose
 6. User Documentation	README.md / user_guide.md	Document usage from a user perspective.
 
 
+| **Step**              | **Document**               | **Purpose**                                           |
+|-----------------------|----------------------------|-------------------------------------------------------|
+| **1. Analyze**        | `product_analysis.md`      | Explore and analyze the product's needs.              |
+| **2. Define**         | `product_definition.md`    | Finalize the product’s vision and features.           |
+| **3. Design Decisions**| `design_decision.md`      | Record technical choices and rationale.               |
+| **4. Architecture**   | `architecture.md`          | Describe the system’s structure and design.           |
+| **5. Database Design**| `database_design.md`       | Focus on database schema and interactions.            |
+| **6. User Documentation** | `README.md` / `user_guide.md` | Document usage from a user perspective.        |
+
+
+
+
 # Template for README.md (`/README.md`)

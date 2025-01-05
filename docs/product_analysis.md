@@ -1,12 +1,15 @@
 
 # Product Analysis for ForgeFlow
-If you already know what exactly you want to build, you technically are one step ahead of here:  
+### Motivation for product analysis
+If you have been told what to build or you already know what exactly you want to build, you   
+technically are one step ahead of here:  
 You have the product definition, and from that you could start creating/developing! Happy  
-developing! But I beleive its not enough! Having the what, without having understanding of the why,  
-only works if everything goes according to plan, specially, the plan should go acording to the plan!  
-We all know that's not happening, at least not where we live, in the the real world. 
+developing!(although you should still document product definition at [product_definition.md](/docs/product_definition.md) ) But I beleive its not enough! Having the what, without having understanding 
+of the why,only works if everything goes according to plan, specially, the plan should go acording   
+to the plan! We all know that's not happening, at least not where we live, in the the real world. 
 
-should we move this part to [this](/README.md)
+For every important decision, we need to document not only the decision, but also why we made that specific decision.
+- should we move this part to [README](/README.md) ?
 
 The goal of Product Analysis is to explore, analyze, and document the problem space that the product  
 is aiming to address. This phase is about getting clarity on the why and the what of the product.  
