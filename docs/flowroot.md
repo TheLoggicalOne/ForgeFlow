@@ -41,6 +41,7 @@ ForgeFlow or for both?
 
 - I think I got somewhere: Lets actually use there repo for creation ForgeFlow
 
+# Flowroot Guide
 
 ### motivation and rationale 
  If you already know what exactly you want to build, you technically are one step ahead of here:  
@@ -109,7 +110,7 @@ Define how components interact via APIs or functions.
 
 
 
-# flowroot template (`docs/flowroot.md`)
+# Template for flowroot (`docs/flowroot.md`)
 ## Start by writing your thought and ideas , in unstructured way, create a bullet point of everything that comes up to your mind
 ## Purpose of flowroot
 This document captures the initial unstructured thoughts, ideas, and observations about the project.  
