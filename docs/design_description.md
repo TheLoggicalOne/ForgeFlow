@@ -1,4 +1,4 @@
-### Design Description (`docs/design_description.md`)
+# Design Description (`docs/design_description.md`)
 This file describes the **current final state** of the system design.
 
 - **System Overview**: Diagram or description.
@@ -7,7 +7,10 @@ This file describes the **current final state** of the system design.
 
 
 
-# Architecture
+# Design Description Guide
+
+
+# Template for Design Description
 
 ## System Overview
 - [High-level description of the system.]
