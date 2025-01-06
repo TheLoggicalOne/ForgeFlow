@@ -1,9 +1,5 @@
 # Design Decisions Analysis for ForgeFlow
-This file documents the **decision-making process** for design choices.
 
-- **Options Considered**: Pros/cons of each choice.
-- **Rationale**: Why a specific choice was made.
-- **Revisions**: Iterations and changes.
 
 ### I need to decide about structure of this fucking self-reffering repo
 
@@ -18,6 +14,12 @@ This file documents the **decision-making process** for design choices.
 ### one for ForgeFlow and one for general template?
 
 # Decision Analysis Guide
+This file documents the **decision-making process** for design choices.
+
+- **Options Considered**: Pros/cons of each choice.
+- **Rationale**: Why a specific choice was made.
+- **Revisions**: Iterations and changes.
+
 
 # Template for Design Decision Analysis (`docs/design_decision_analysis.md`)
 

@@ -56,6 +56,6 @@ Step	Document	Purpose
 | **6. User Documentation** | `README.md` / `user_guide.md` | Document usage from a user perspective.        |
 
 
-
+# README Guide
 
 # Template for README.md (`/README.md`)
