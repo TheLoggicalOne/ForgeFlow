@@ -41,6 +41,8 @@ ForgeFlow or for both?
 
 - I think I got somewhere: Lets actually use there repo for creation ForgeFlow
 
+### For now, let start with a workflow that will be flexible
+
 # Flowroot Guide
 
 ### motivation and rationale 
