@@ -14,7 +14,7 @@ different desing decisions in [docs/design_decision_analysis.md](docs/design_dec
 in [docs/design_description.md](docs/design_description.md)  
 I wasn't expecting things to get too confusing too fast! I was hit with the sneaky self-referal  
 paradox type confusation! 
-- In [design_decision_analysis.md](docs/design_decision_analysis.md) is for general product analysis 
+- [design_decision_analysis.md](docs/design_decision_analysis.md) is for general product analysis 
 or for product analysis specific to  
 ForgeFlow or for both? 
   - maybe both? Ok, should the section for general product workflow be a template or be a guide? or  
