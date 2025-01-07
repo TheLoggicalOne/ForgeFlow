@@ -1,9 +1,6 @@
 
 # Product Analysis for ForgeFlow
-- What is the product and what does it do and what solutions it provides
-    - take a step back, look at everything from above, what is the prolem that this product address?  
-    - why this problem? are you focusing on right problem and solutions?      
-
+  
 ### What I want/need
 - a workflow for projects and product creation
 - guide to help me complete this workflow
@@ -104,6 +101,12 @@ List and analyze potential Features: Include pros, cons, and feasibility.
 Record the Decision-Making Process: Justify why features are selected or rejected.
 
 ### Product Analysis Workflow
+
+
+### Questions to think about
+- What is the product and what does it do and what solutions it provides
+    - take a step back, look at everything from above, what is the prolem that this product address?  
+    - why this problem? are you focusing on right problem and solutions?    
 
 # Template for Product Analysis (`docs/product_analysis.md`)
 
