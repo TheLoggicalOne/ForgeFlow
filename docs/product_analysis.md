@@ -1,6 +1,8 @@
 
 # Product Analysis for ForgeFlow
-
+- What is the product and what does it do and what solutions it provides
+    - take a step back, look at everything from above, what is the prolem that this product address?  
+    - why this problem? are you focusing on right problem and solutions?      
 
 ### What I want/need
 - a workflow for projects and product creation
@@ -29,6 +31,10 @@ about where and how to document these, which I know by exprience they are critic
 ### is it useful to think about cause and consequences of the problem? Should we?
 
 
+### Start writing about what is known(almost) about the product
+
+
+
 # Product Analysis Guide
 ### Motivation for product analysis
 If you have been told what to build or you already know what exactly you want to build, you   
@@ -48,7 +54,7 @@ definition
 
 - should we move this part to [README](/README.md) ?
 
-### 
+### Product Analysis
 The goal of Product Analysis is to explore, analyze, and document the problem space that the product  
 is aiming to address. This phase is about getting clarity on the why and the what of the product.  
 The final clean version of the what of product will goes into product_definition.md  
@@ -88,7 +94,7 @@ Explore the **needs and requirements** of the product from the user's perspectiv
 - Explore use cases comprehensively.
 - Identify and evaluate potential features.
 
-## 
+### a summary for product analysis 
 Purpose: Explore and document the problem, use cases, features, and the rationale behind decisions.
 Steps:
 Write the Problem Statement: What problem are we solving?
@@ -97,7 +103,7 @@ Brainstorm Use Cases: List real-world scenarios.
 List and analyze potential Features: Include pros, cons, and feasibility.
 Record the Decision-Making Process: Justify why features are selected or rejected.
 
-
+### Product Analysis Workflow
 
 # Template for Product Analysis (`docs/product_analysis.md`)
 
