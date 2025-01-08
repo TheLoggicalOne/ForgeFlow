@@ -13,6 +13,14 @@
 - I think I got somewhere: Lets actually use there repo for creation ForgeFlow
 ### one for ForgeFlow and one for general template?
 
+
+
+
+### Where should current product definition go?
+- it is not the final definition, but its current sketch of product should it go to:
+  - [product definition](/docs/product_definition.md)
+  - [product analysis](/docs/product_analysis.md)
+
 # Decision Analysis Guide
 This file documents the **decision-making process** for design choices.
 
