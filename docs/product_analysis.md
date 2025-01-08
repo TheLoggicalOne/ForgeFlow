@@ -27,6 +27,10 @@ about where and how to document these, which I know by exprience they are critic
 
 ### is it useful to think about cause and consequences of the problem? Should we?
 
+### where the hell is requirement gathering step?
+- I know we have tghought about requirements when thinking about problem and wants and needs, but  
+it should be comprehensive and emphasized
+
 
 ### a check list before starting to write what is known about the product, i.e next step
 - the idea is to not bias your mind and thinking to specific properties or requirements befor going  
