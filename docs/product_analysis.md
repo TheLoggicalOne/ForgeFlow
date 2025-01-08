@@ -1,6 +1,12 @@
 
 # Product Analysis for ForgeFlow
-  
+
+### Summary of steps for Product Analysis
+- should this be moved to [Product Analysis Guide](#product-analysis-guide) section?
+
+
+
+
 ### What I want/need
 - a workflow for projects and product creation
 - guide to help me complete this workflow
