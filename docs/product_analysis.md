@@ -28,11 +28,17 @@ about where and how to document these, which I know by exprience they are critic
 ### is it useful to think about cause and consequences of the problem? Should we?
 
 
+### a check list before starting to write what is known about the product, i.e next step
+- the idea is to not bias your mind and thinking to specific properties or requirements befor going  
+befor going to next step
+
+
 ### Start writing about what is known(almost) about the product
 
 
 
 # Product Analysis Guide
+
 ### Motivation for product analysis
 If you have been told what to build or you already know what exactly you want to build, you   
 technically are one step ahead of here:  
